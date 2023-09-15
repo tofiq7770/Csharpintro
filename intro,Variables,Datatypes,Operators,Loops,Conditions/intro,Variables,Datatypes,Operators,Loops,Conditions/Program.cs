@@ -216,3 +216,65 @@ Console.WriteLine(sum);
 
 //task11
 
+
+
+//int[] numbs = { 1, 2, 3, 4, 5, 6, 7,8,9,10,11 };
+//int sum = 0;
+
+//for (int i = 0; i < numbs.Length; i++)
+//{
+//    if (numbs[i] % 2 == 1)
+//    {
+//        sum+= numbs[i];
+//    }
+//}
+//Console.WriteLine(sum);
+
+
+//task12
+
+//int[] numbs = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
+//int sum = 0;
+
+//for (int i = 0; i < numbs.Length; i++)
+//{
+//    if (numbs[i] % 2 == 0)
+//    {
+//        sum += numbs[i];
+//    }
+//}
+//Console.WriteLine(sum);
+
+//task13
+
+//int n;
+//int count = 0;
+
+//n = int.Parse(Console.ReadLine());
+
+//for (int i = 1; i <=n ; i++)
+//{
+//    if (n%i==0)
+//    {
+//        count++;
+//    }
+//}
+//if (n==0)
+//{
+//    Console.WriteLine("Ne sade ne de murekkeb");
+//}
+//else if(count==2)
+//{
+//    Console.WriteLine("Sadedir");
+//}
+//else
+//{
+//    Console.WriteLine("Murekkebdir");
+//}
+
+
+//Task14
+
+//dersde olanlari yazmaq;
+
+//diger program.cs de onlari yazdim
